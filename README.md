@@ -1,4 +1,4 @@
-### Hello, My name is <ruby>Sonui<rt>suo-nu-i</rt></ruby> ![GitHub followers](https://img.shields.io/github/followers/sosyz?label=Follow&style=social) 👋
+### Hello, My name is <ruby>Sonui<rt>suo-nu-yi</rt></ruby> ![GitHub followers](https://img.shields.io/github/followers/sosyz?label=Follow&style=social) 👋
 
 I'm a backend developer who loves to code and learn new things.
 
